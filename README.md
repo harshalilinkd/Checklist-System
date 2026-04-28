@@ -1,11 +1,5 @@
 # Checklist-System
 High-performance Google Apps Script checklist system with real-time sync, role-based access, smart task scheduling, and optimized master checklist for scalable task management and automation.
-# Checklist Management System
-
-A task management web app built on Google Apps Script with Google Sheets as the database.
-
----
-
 ## Tech Stack
 
 | Layer | Technology |
